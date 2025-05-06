@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="sql">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="address" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <NewDataSet>
+      <sql diffgr:id="sql1" msdata:rowOrder="0">
+        <id>1</id>
+        <name>Wiley E coyote</name>
+        <address>sandy desert</address>
+      </sql>
+      <sql diffgr:id="sql2" msdata:rowOrder="1">
+        <id>2</id>
+        <name>Acme corp.</name>
+        <address>big city</address>
+      </sql>
+    </NewDataSet>
+  </diffgr:diffgram>
+</DataSet>

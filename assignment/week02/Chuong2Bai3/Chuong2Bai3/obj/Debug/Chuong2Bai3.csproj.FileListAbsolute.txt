@@ -1,0 +1,18 @@
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\bin\Debug\Chuong2Bai3.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\bin\Debug\Chuong2Bai3.pdb
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\ResolveAssemblyReference.cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.Form1.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.Properties.Resources.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.csproj.GenerateResource.Cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.pdb
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\bin\Debug\Chuong2Bai3.exe.config
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\bin\Debug\Chuong2Bai3.exe
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\bin\Debug\Chuong2Bai3.pdb
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.csproj.AssemblyReference.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.Form1.resources
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.Properties.Resources.resources
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.csproj.GenerateResource.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.csproj.CoreCompileInputs.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.exe
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai3\Chuong2Bai3\obj\Debug\Chuong2Bai3.pdb

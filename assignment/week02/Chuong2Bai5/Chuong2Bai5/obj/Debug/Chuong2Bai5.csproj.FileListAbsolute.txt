@@ -1,0 +1,28 @@
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\ResolveAssemblyReference.cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Form1.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Properties.Resources.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.GenerateResource.Cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.pdb
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.pdb
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.exe.config
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.exe
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.pdb
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.AssemblyReference.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Form1.resources
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Properties.Resources.resources
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.GenerateResource.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.CoreCompileInputs.cache
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.exe
+D:\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.pdb
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.exe.config
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.exe
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\bin\Debug\Chuong2Bai5.pdb
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.AssemblyReference.cache
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Form1.resources
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.Properties.Resources.resources
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.GenerateResource.cache
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.csproj.CoreCompileInputs.cache
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.exe
+D:\STUDY\NT106.P22.ANTT\assignment\week02\Chuong2Bai5\Chuong2Bai5\obj\Debug\Chuong2Bai5.pdb

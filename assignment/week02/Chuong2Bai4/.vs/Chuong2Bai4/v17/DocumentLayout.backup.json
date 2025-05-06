@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|d:\\nt106.p22.antt\\assignment\\week02\\chuong2bai4\\chuong2bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|solutionrelative:chuong2bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|d:\\nt106.p22.antt\\assignment\\week02\\chuong2bai4\\chuong2bai4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|solutionrelative:chuong2bai4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|d:\\nt106.p22.antt\\assignment\\week02\\chuong2bai4\\chuong2bai4\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|solutionrelative:chuong2bai4\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|d:\\nt106.p22.antt\\assignment\\week02\\chuong2bai4\\chuong2bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22817C1A-2FFA-4CC1-8C77-EC941A4C5118}|Chuong2Bai4\\Chuong2Bai4.csproj|solutionrelative:chuong2bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.resx",
+              "RelativeDocumentMoniker": "Chuong2Bai4\\Form1.resx",
+              "ToolTip": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.resx",
+              "RelativeToolTip": "Chuong2Bai4\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-08T18:47:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Chuong2Bai4\\Program.cs",
+              "ToolTip": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Program.cs",
+              "RelativeToolTip": "Chuong2Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:07:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Chuong2Bai4\\Form1.Designer.cs",
+              "ToolTip": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.Designer.cs",
+              "RelativeToolTip": "Chuong2Bai4\\Form1.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:07:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Chuong2Bai4\\Form1.cs",
+              "ToolTip": "D:\\NT106.P22.ANTT\\assignment\\week02\\Chuong2Bai4\\Chuong2Bai4\\Form1.cs",
+              "RelativeToolTip": "Chuong2Bai4\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:07:33.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

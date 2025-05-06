@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<purchaseOrder xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <buyer>
+    <name>Paul Allen</name>
+  </buyer>
+  <vendor>
+    <name>Microsoft Inc.</name>
+  </vendor>
+  <items>
+    <lineItem>
+      <description>Microsoft Office 2010</description>
+      <quantity>5</quantity>
+      <cost>1500</cost>
+    </lineItem>
+  </items>
+</purchaseOrder>

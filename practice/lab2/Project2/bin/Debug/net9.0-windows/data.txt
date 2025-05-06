@@ -1,0 +1,4 @@
+System.Windows.Forms.Label, Text: Họ và tên:;23520694;0967414607;7,5;10
+System.Windows.Forms.Label, Text: Họ và tên:;23520694;0967414607;10;10
+Nguyen Dinh Khang;23520694;0967414607;10;10
+Nguyen Dinh Khang;23520694;0967414607;6,5;7,5

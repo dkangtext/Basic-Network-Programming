@@ -1,0 +1,33 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:purchaseOrder id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Chuong2Bai4/Chuong2Bai4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_purchaseOrderStatus>ISSUED</_purchaseOrderStatus>
+<_issuanceDate>2025-03-09T02:08:18.2507489+07:00</_issuanceDate>
+<_deliveryDate>0001-01-01T00:00:00.0000000+07:00</_deliveryDate>
+<_invoiceDate>0001-01-01T00:00:00.0000000+07:00</_invoiceDate>
+<_paymentDate>0001-01-01T00:00:00.0000000+07:00</_paymentDate>
+<buyer href="#ref-3"/>
+<vendor href="#ref-4"/>
+<reference xsi:null="1"/>
+<items href="#ref-5"/>
+</a1:purchaseOrder>
+<a1:company id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Chuong2Bai4/Chuong2Bai4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-6">Wiley E. Coyote</name>
+<address xsi:null="1"/>
+<phone xsi:null="1"/>
+</a1:company>
+<a1:company id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Chuong2Bai4/Chuong2Bai4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-7">Acme Inc.</name>
+<address xsi:null="1"/>
+<phone xsi:null="1"/>
+</a1:company>
+<SOAP-ENC:Array id="ref-5" SOAP-ENC:arrayType="a1:lineItem[1]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Chuong2Bai4/Chuong2Bai4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:lineItem id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Chuong2Bai4/Chuong2Bai4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<description id="ref-9">anti-RoadRunner cannon</description>
+<quantity>1</quantity>
+<cost>599.99</cost>
+</a1:lineItem>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

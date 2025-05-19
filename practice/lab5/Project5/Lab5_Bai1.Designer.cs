@@ -52,6 +52,7 @@
             btSend.TabIndex = 15;
             btSend.Text = "SEND";
             btSend.UseVisualStyleBackColor = true;
+            btSend.Click += btSend_Click;
             // 
             // lbFrom
             // 
@@ -84,6 +85,7 @@
             btExit.TabIndex = 16;
             btExit.Text = "THOÁT";
             btExit.UseVisualStyleBackColor = true;
+            btExit.Click += btExit_Click;
             // 
             // tbFrom
             // 

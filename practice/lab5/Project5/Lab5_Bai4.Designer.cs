@@ -30,9 +30,7 @@
         {
             tbPassword = new TextBox();
             lbPassword = new Label();
-            this.tbEmail = new TextBox();
             btExit = new Button();
-            this.btLogIn = new Button();
             lbEmail = new Label();
             lbHeader = new Label();
             SuspendLayout();
@@ -55,13 +53,6 @@
             lbPassword.TabIndex = 47;
             lbPassword.Text = "Password:";
             // 
-            // tbEmail
-            // 
-            this.tbEmail.Location = new Point(154, 75);
-            this.tbEmail.Name = "tbEmail";
-            this.tbEmail.Size = new Size(370, 27);
-            this.tbEmail.TabIndex = 44;
-            // 
             // btExit
             // 
             btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -71,16 +62,6 @@
             btExit.TabIndex = 43;
             btExit.Text = "THOÁT";
             btExit.UseVisualStyleBackColor = true;
-            // 
-            // btLogIn
-            // 
-            this.btLogIn.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            this.btLogIn.Location = new Point(212, 201);
-            this.btLogIn.Name = "btLogIn";
-            this.btLogIn.Size = new Size(148, 47);
-            this.btLogIn.TabIndex = 42;
-            this.btLogIn.Text = "LOG IN";
-            this.btLogIn.UseVisualStyleBackColor = true;
             // 
             // lbEmail
             // 
@@ -111,9 +92,7 @@
             ClientSize = new Size(557, 277);
             Controls.Add(tbPassword);
             Controls.Add(lbPassword);
-            Controls.Add(this.tbEmail);
             Controls.Add(btExit);
-            Controls.Add(this.btLogIn);
             Controls.Add(lbEmail);
             Controls.Add(lbHeader);
             Name = "Lab5_Bai4";

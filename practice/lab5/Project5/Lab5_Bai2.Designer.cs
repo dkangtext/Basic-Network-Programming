@@ -29,18 +29,15 @@
         private void InitializeComponent()
         {
             lbTotal = new Label();
-            tbTo = new TextBox();
+            tbPassword = new TextBox();
             lbPass = new Label();
-            tbFrom = new TextBox();
+            tbEmail = new TextBox();
             btExit = new Button();
             btLogIn = new Button();
             lbEmail = new Label();
             lbHeader = new Label();
             lbRecent = new Label();
             dataGridView1 = new DataGridView();
-            Email = new DataGridViewTextBoxColumn();
-            From = new DataGridViewTextBoxColumn();
-            Time = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -55,12 +52,12 @@
             lbTotal.TabIndex = 35;
             lbTotal.Text = "Total:";
             // 
-            // tbTo
+            // tbPassword
             // 
-            tbTo.Location = new Point(141, 108);
-            tbTo.Name = "tbTo";
-            tbTo.Size = new Size(325, 27);
-            tbTo.TabIndex = 32;
+            tbPassword.Location = new Point(141, 108);
+            tbPassword.Name = "tbPassword";
+            tbPassword.Size = new Size(325, 27);
+            tbPassword.TabIndex = 32;
             // 
             // lbPass
             // 
@@ -73,12 +70,12 @@
             lbPass.TabIndex = 31;
             lbPass.Text = "Password:";
             // 
-            // tbFrom
+            // tbEmail
             // 
-            tbFrom.Location = new Point(141, 70);
-            tbFrom.Name = "tbFrom";
-            tbFrom.Size = new Size(325, 27);
-            tbFrom.TabIndex = 30;
+            tbEmail.Location = new Point(141, 70);
+            tbEmail.Name = "tbEmail";
+            tbEmail.Size = new Size(325, 27);
+            tbEmail.TabIndex = 30;
             // 
             // btExit
             // 
@@ -89,6 +86,7 @@
             btExit.TabIndex = 29;
             btExit.Text = "THOÁT";
             btExit.UseVisualStyleBackColor = true;
+            btExit.Click += btExit_Click;
             // 
             // btLogIn
             // 
@@ -99,6 +97,7 @@
             btLogIn.TabIndex = 28;
             btLogIn.Text = "LOG IN";
             btLogIn.UseVisualStyleBackColor = true;
+            btLogIn.Click += btLogIn_Click;
             // 
             // lbEmail
             // 
@@ -136,33 +135,11 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Email, From, Time });
             dataGridView1.Location = new Point(27, 213);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(790, 319);
             dataGridView1.TabIndex = 37;
-            // 
-            // Email
-            // 
-            Email.HeaderText = "Email";
-            Email.MinimumWidth = 6;
-            Email.Name = "Email";
-            Email.Width = 350;
-            // 
-            // From
-            // 
-            From.HeaderText = "From";
-            From.MinimumWidth = 6;
-            From.Name = "From";
-            From.Width = 200;
-            // 
-            // Time
-            // 
-            Time.HeaderText = "Thời gian";
-            Time.MinimumWidth = 6;
-            Time.Name = "Time";
-            Time.Width = 250;
             // 
             // Lab5_Bai2
             // 
@@ -172,9 +149,9 @@
             Controls.Add(dataGridView1);
             Controls.Add(lbRecent);
             Controls.Add(lbTotal);
-            Controls.Add(tbTo);
+            Controls.Add(tbPassword);
             Controls.Add(lbPass);
-            Controls.Add(tbFrom);
+            Controls.Add(tbEmail);
             Controls.Add(btExit);
             Controls.Add(btLogIn);
             Controls.Add(lbEmail);
@@ -192,17 +169,14 @@
         private Label lbBody;
         private TextBox tbSubject;
         private Label lbTotal;
-        private TextBox tbTo;
+        private TextBox tbPassword;
         private Label lbPass;
-        private TextBox tbFrom;
+        private TextBox tbEmail;
         private Button btExit;
         private Button btLogIn;
         private Label lbEmail;
         private Label lbHeader;
         private Label lbRecent;
         private DataGridView dataGridView1;
-        private DataGridViewTextBoxColumn Email;
-        private DataGridViewTextBoxColumn From;
-        private DataGridViewTextBoxColumn Time;
     }
 }

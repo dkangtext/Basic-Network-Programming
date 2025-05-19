@@ -13,12 +13,6 @@
     <Compile Update="Lab5_Bai4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Lab5_Bai4_Dashboard.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Lab5_Bai4_New.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Lab5_Controls.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Project4
 {
-    public partial class Lab4_Bai3: Form
+    public partial class Lab4_Bai3 : Form
     {
         public Lab4_Bai3()
         {
             InitializeComponent();
+        }
+
+        private void btDownload_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,30 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\",
+  "WorkspaceRootPath": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_udp-server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_udp-server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_udp-server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_udp-server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_bai3_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\nt106.p22.antt\\practice\\lab3\\project3\\lab3_bai4_chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai4_chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai4_chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai3_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai3_tcp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3_tcp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_udp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_udp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_udp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_udp-client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|d:\\study\\uit\\mang\\lab3\\project3\\lab3_bai1_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6728-336A-4720-91AA-89EEAB6D5ECD}|Project3.csproj|solutionrelative:lab3_bai1_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +78,228 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab3_Bai3.cs [Design]",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai3.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai3.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai3.cs [Design]",
-              "RelativeToolTip": "Lab3_Bai3.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Lab3_Bai2.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai2.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.cs",
+              "RelativeToolTip": "Lab3_Bai2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:44:36.66Z",
+              "WhenOpened": "2025-05-06T01:55:18.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3_Bai1_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_Dashboard.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_Dashboard.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_Dashboard.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai1_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:29:02.886Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab3_Bai2.cs [Design]",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai2.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai2.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai2.cs [Design]",
-              "RelativeToolTip": "Lab3_Bai2.cs [Design]",
+              "Title": "Lab3_Bai1_UDP-Server.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Server.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_UDP-Server.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Server.cs [Design]*",
+              "RelativeToolTip": "Lab3_Bai1_UDP-Server.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:44:35.046Z",
+              "WhenOpened": "2025-05-06T01:29:04.487Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lab3_Bai3_Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai3_Dashboard.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai3_Dashboard.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai3_Dashboard.cs [Design]",
-              "RelativeToolTip": "Lab3_Bai3_Dashboard.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Lab3_Bai1_UDP-Server.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Server.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_UDP-Server.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Server.cs*",
+              "RelativeToolTip": "Lab3_Bai1_UDP-Server.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:44:33.402Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lab3_Controls.cs",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Controls.cs",
-              "RelativeDocumentMoniker": "Lab3_Controls.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Controls.cs",
-              "RelativeToolTip": "Lab3_Controls.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:39:41.088Z",
+              "WhenOpened": "2025-05-06T01:47:07.278Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Lab3_Controls.cs [Design]",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Controls.cs",
-              "RelativeDocumentMoniker": "Lab3_Controls.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Controls.cs [Design]",
-              "RelativeToolTip": "Lab3_Controls.cs [Design]",
+              "Title": "Lab3_Bai2.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai2.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:35:14.694Z",
+              "WhenOpened": "2025-05-06T01:48:47.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab3_Bai4.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai4.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai4.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:06:20.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab3_Bai4_ChatClient.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai4_ChatClient.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4_ChatClient.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai4_ChatClient.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai4_ChatClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:06:23.045Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Lab3_Bai4_ChatClient.cs [Design]",
-              "DocumentMoniker": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai4_ChatClient.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai4_ChatClient.cs",
-              "ToolTip": "D:\\STUDY\\NT106.P22.ANTT\\practice\\lab3\\Project3\\Lab3_Bai4_ChatClient.cs [Design]",
-              "RelativeToolTip": "Lab3_Bai4_ChatClient.cs [Design]",
+              "Title": "Lab3_Controls.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Controls.cs",
+              "RelativeDocumentMoniker": "Lab3_Controls.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Controls.cs [Design]",
+              "RelativeToolTip": "Lab3_Controls.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:35:14.053Z",
+              "WhenOpened": "2025-05-06T02:06:23.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab3_Bai3_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3_Dashboard.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai3_Dashboard.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3_Dashboard.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai3_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:06:20.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab3_Bai3.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai3.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3.cs",
+              "RelativeToolTip": "Lab3_Bai3.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADgv38AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:58:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lab3_Bai3.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai3.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:58:31.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lab3_Bai2.resx",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.resx",
+              "RelativeDocumentMoniker": "Lab3_Bai2.resx",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.resx",
+              "RelativeToolTip": "Lab3_Bai2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-06T01:55:13.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab3_Bai3_TCP-Client.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3_TCP-Client.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai3_TCP-Client.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai3_TCP-Client.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai3_TCP-Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:58:49.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab3_Bai2.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai2.Designer.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai2.Designer.cs",
+              "RelativeToolTip": "Lab3_Bai2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:55:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lab3_Bai1_UDP-Client.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Client.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_UDP-Client.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Client.cs",
+              "RelativeToolTip": "Lab3_Bai1_UDP-Client.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:46:53.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lab3_Bai1_Dashboard.cs",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_Dashboard.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_Dashboard.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_Dashboard.cs",
+              "RelativeToolTip": "Lab3_Bai1_Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:46:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lab3_Bai1_UDP-Client.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Client.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_UDP-Client.cs",
+              "ToolTip": "D:\\Study\\UIT\\Mang\\Lab3\\Project3\\Lab3_Bai1_UDP-Client.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai1_UDP-Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:29:02.167Z",
               "EditorCaption": " [Design]"
             }
           ]

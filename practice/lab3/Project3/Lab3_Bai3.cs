@@ -57,10 +57,6 @@ namespace Project3
             }
             catch (Exception ex)
             {
-                this.Invoke(new Action(() =>
-                {
-                    AddToListView("Lỗi: " + ex.Message);
-                }));
             }
         }
 
@@ -129,6 +125,7 @@ namespace Project3
 
         private void btExit_Click(object sender, EventArgs e)
         {
+            tcpListener.Stop();
             this.Close();
         }
 

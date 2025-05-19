@@ -41,67 +41,75 @@
             lbHeader.AutoSize = true;
             lbHeader.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbHeader.ForeColor = Color.IndianRed;
-            lbHeader.Location = new Point(57, 27);
+            lbHeader.Location = new Point(71, 34);
+            lbHeader.Margin = new Padding(4, 0, 4, 0);
             lbHeader.Name = "lbHeader";
-            lbHeader.Size = new Size(713, 24);
+            lbHeader.Size = new Size(854, 29);
             lbHeader.TabIndex = 20;
             lbHeader.Text = "BÀI 03 - CHƯƠNG TRÌNH DOWNLOAD NỘI DUNG TRANG WEB BẤT KỲ";
             // 
             // tbInput
             // 
-            tbInput.Location = new Point(18, 75);
+            tbInput.Location = new Point(22, 94);
+            tbInput.Margin = new Padding(4, 4, 4, 4);
             tbInput.Name = "tbInput";
-            tbInput.Size = new Size(605, 41);
+            tbInput.Size = new Size(755, 50);
             tbInput.TabIndex = 19;
             tbInput.Text = "";
             // 
             // btDownload
             // 
             btDownload.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btDownload.Location = new Point(639, 75);
+            btDownload.Location = new Point(799, 94);
+            btDownload.Margin = new Padding(4, 4, 4, 4);
             btDownload.Name = "btDownload";
-            btDownload.Size = new Size(185, 41);
+            btDownload.Size = new Size(231, 51);
             btDownload.TabIndex = 18;
             btDownload.Text = "DOWNLOAD";
             btDownload.UseVisualStyleBackColor = true;
+            btDownload.Click += btDownload_Click;
             // 
             // btExit
             // 
             btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btExit.Location = new Point(639, 133);
+            btExit.Location = new Point(799, 166);
+            btExit.Margin = new Padding(4, 4, 4, 4);
             btExit.Name = "btExit";
-            btExit.Size = new Size(185, 41);
+            btExit.Size = new Size(231, 51);
             btExit.TabIndex = 17;
             btExit.Text = "THOÁT";
             btExit.UseVisualStyleBackColor = true;
             // 
             // tbOutput
             // 
-            tbOutput.Location = new Point(18, 194);
+            tbOutput.Location = new Point(22, 242);
+            tbOutput.Margin = new Padding(4, 4, 4, 4);
             tbOutput.Name = "tbOutput";
-            tbOutput.Size = new Size(806, 388);
+            tbOutput.Size = new Size(1006, 484);
             tbOutput.TabIndex = 16;
             tbOutput.Text = "";
             // 
             // tbInput2
             // 
-            tbInput2.Location = new Point(18, 133);
+            tbInput2.Location = new Point(22, 166);
+            tbInput2.Margin = new Padding(4, 4, 4, 4);
             tbInput2.Name = "tbInput2";
-            tbInput2.Size = new Size(605, 41);
+            tbInput2.Size = new Size(755, 50);
             tbInput2.TabIndex = 21;
             tbInput2.Text = "";
             // 
             // Lab4_Bai3
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(840, 600);
+            ClientSize = new Size(1050, 750);
             Controls.Add(tbInput2);
             Controls.Add(lbHeader);
             Controls.Add(tbInput);
             Controls.Add(btDownload);
             Controls.Add(btExit);
             Controls.Add(tbOutput);
+            Margin = new Padding(4, 4, 4, 4);
             Name = "Lab4_Bai3";
             Text = "Lab4_Bai3";
             ResumeLayout(false);

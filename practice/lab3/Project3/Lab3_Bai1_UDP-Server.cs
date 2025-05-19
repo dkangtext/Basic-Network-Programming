@@ -15,6 +15,7 @@ namespace Project3
 {
     public partial class Lab3_Bai1_U_Server : Form
     {
+        UdpClient udpServer;
         public Lab3_Bai1_U_Server()
         {
             InitializeComponent();
@@ -24,14 +25,14 @@ namespace Project3
             try
             {
                 int port = Convert.ToInt32(tbPort.Text);
-                UdpClient udpClient = new UdpClient(port);
+                UdpClient udpServer = new UdpClient(port);
                 while (true)
                 {
                     IPEndPoint IpEnd = new IPEndPoint(IPAddress.Any, port);
                     btListen.Text = "Listening";
                     tbPort.ReadOnly = true;
                     var recvByte = new Byte[1];
-                    recvByte = udpClient.Receive(ref IpEnd);
+                    recvByte = udpServer.Receive(ref IpEnd);
                     string Data = Encoding.UTF8.GetString(recvByte);
                     string mess = IpEnd.Address.ToString() + ": " + Data.ToString();
                     tbReceivedMessage.Invoke(new Action(() => tbReceivedMessage.Text += mess + "\r\n"));

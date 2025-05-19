@@ -35,65 +35,60 @@ namespace Project3
             {
                 lvListen.Items.Add(new ListViewItem("Waiting for connection..."));
 
-                int bytesReceived = 0;
-
-                // Khởi tạo mảng byte nhận dữ liệu
-                byte[] recv = new byte[1];
-
-                // Tạo socket bên gửi
-                Socket clientSocket;
-
-                /* 
-                 * Tạo socket bên nhận, socket này là socket lắng nghe các kết nối tới nó tại địa chỉ IP của máy và port 8080. 
-                 * Đây là 1 TCP / IP socket.
-                 * AddressFamily: Với địa chỉ Ipv4 cần chọn AddressFamily.InterNetwork
-                 * SocketType: kiểu kết nối socket, ở đây dùng luồng Stream để nhận dữ liệu
-                */
                 Socket listenerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 IPEndPoint ipepServer = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8080);
 
-                // Gán socket lắng nghe tới địa chỉ IP của máy và port 8080
+      
+                listenerSocket.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReuseAddress, true);
                 listenerSocket.Bind(ipepServer);
+                listenerSocket.Listen(10); 
 
-                // bắt đầu lắng nghe. Socket.Listen(int backlog) 
-                listenerSocket.Listen(-1);
                 btListen.Text = "Listening";
 
-                //Đồng ý kết nối
-                clientSocket = listenerSocket.Accept();
-
-                //Nhận dữ liệu
-                lvListen.Items.Add(new ListViewItem("Telnet running on " + ipepServer.Address + ":" + ipepServer.Port));
-
-                while (clientSocket.Connected)
+                while (true) 
                 {
-                    string text = "";
-                    do
-                    {
-                        bytesReceived = clientSocket.Receive(recv);
-                        text += Encoding.UTF8.GetString(recv, 0, bytesReceived);
-                    }
-                    while (text[text.Length - 1] != '\n');
+                    Socket clientSocket = listenerSocket.Accept();
+                    lvListen.Items.Add(new ListViewItem("Telnet connected on " + ipepServer.Address + ":" + ipepServer.Port));
 
-                    // Kiểm tra nếu kết nối đã bị đóng từ phía client
-                    if (bytesReceived == 0)
+                    Thread clientThread = new Thread(() =>
                     {
-                        lvListen.Items.Add(new ListViewItem("Connection closed by client."));
-                        btListen.Text = "Listen";
-                        break;
-                    }
+                        try
+                        {
+                            int bytesReceived;
+                            byte[] recv = new byte[1];
+                            string text = "";
 
-                    lvListen.Items.Add(new ListViewItem(ipepServer.Address + ":" + ipepServer.Port + ": " + text));
+                            while (clientSocket.Connected)
+                            {
+                                bytesReceived = clientSocket.Receive(recv);
+                                if (bytesReceived == 0) break;
+
+                                text += Encoding.UTF8.GetString(recv, 0, bytesReceived);
+                                if (text.EndsWith("\n"))
+                                {
+                                    lvListen.Items.Add(new ListViewItem(ipepServer.Address + ":" + ipepServer.Port + ": " + text.Trim()));
+                                    text = "";
+                                }
+                            }
+
+                            lvListen.Items.Add(new ListViewItem("Connection closed."));
+                            clientSocket.Close();
+                        }
+                        catch (Exception ex)
+                        {
+                            lvListen.Items.Add(new ListViewItem("Client error: " + ex.Message));
+                        }
+                    });
+                    clientThread.IsBackground = true;
+                    clientThread.Start();
                 }
-
-                // Đóng socket lắng nghe khi kết thúc quá trình
-                listenerSocket.Close();
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("Server error: " + ex.Message);
             }
         }
+
 
         private void btExit_Click(object sender, EventArgs e)
         {

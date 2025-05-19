@@ -22,7 +22,7 @@ namespace Project4
 
         private void BtExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btPost_Click(object sender, EventArgs e)

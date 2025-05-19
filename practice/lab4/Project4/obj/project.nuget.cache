@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OZvoYr67epM=",
+  "dgSpecHash": "bH0QuI96ITY=",
   "success": true,
-  "projectFilePath": "D:\\Study\\UIT\\Mang\\ThucHanh\\Basic-Network-Programming\\practice\\lab4\\Project4\\Project4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\STUDY\\Basic-Network-Programming\\practice\\lab4\\Project4\\Project4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onlwe\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -28,106 +28,88 @@
         /// </summary>
         private void InitializeComponent()
         {
+            btExit = new Button();
+            btDownload = new Button();
+            btSeeSource = new Button();
             lbHeader = new Label();
             tbInput = new RichTextBox();
             btAccess = new Button();
-            tbOutput = new RichTextBox();
-            btSeeContent = new Button();
-            btSeeSource = new Button();
-            btDownload = new Button();
-            btExit = new Button();
             SuspendLayout();
+            // 
+            // btExit
+            // 
+            btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btExit.Location = new Point(1132, 68);
+            btExit.Name = "btExit";
+            btExit.Size = new Size(185, 41);
+            btExit.TabIndex = 32;
+            btExit.Text = "THOÁT";
+            btExit.UseVisualStyleBackColor = true;
+            btExit.Click += btExit_Click;
+            // 
+            // btDownload
+            // 
+            btDownload.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btDownload.Location = new Point(941, 68);
+            btDownload.Name = "btDownload";
+            btDownload.Size = new Size(185, 41);
+            btDownload.TabIndex = 31;
+            btDownload.Text = "DOWNLOAD";
+            btDownload.UseVisualStyleBackColor = true;
+            btDownload.Click += btDownload_Click;
+            // 
+            // btSeeSource
+            // 
+            btSeeSource.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btSeeSource.Location = new Point(750, 68);
+            btSeeSource.Name = "btSeeSource";
+            btSeeSource.Size = new Size(185, 41);
+            btSeeSource.TabIndex = 30;
+            btSeeSource.Text = "XEM SOURCE";
+            btSeeSource.UseVisualStyleBackColor = true;
+            btSeeSource.Click += btSeeSource_Click;
             // 
             // lbHeader
             // 
             lbHeader.AutoSize = true;
             lbHeader.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbHeader.ForeColor = Color.IndianRed;
-            lbHeader.Location = new Point(86, 21);
+            lbHeader.Location = new Point(245, 20);
             lbHeader.Name = "lbHeader";
             lbHeader.Size = new Size(808, 24);
-            lbHeader.TabIndex = 20;
+            lbHeader.TabIndex = 28;
             lbHeader.Text = "BÀI 04 - CHƯƠNG TRÌNH WEB BROWSER THỰC HIỆN CÁC CHỨC NĂNG CƠ BẢN";
             // 
             // tbInput
             // 
-            tbInput.Location = new Point(17, 69);
+            tbInput.Location = new Point(15, 68);
             tbInput.Name = "tbInput";
-            tbInput.Size = new Size(714, 41);
-            tbInput.TabIndex = 19;
+            tbInput.Size = new Size(538, 41);
+            tbInput.TabIndex = 27;
             tbInput.Text = "";
             // 
             // btAccess
             // 
             btAccess.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btAccess.Location = new Point(744, 69);
+            btAccess.Location = new Point(559, 68);
             btAccess.Name = "btAccess";
             btAccess.Size = new Size(185, 41);
-            btAccess.TabIndex = 18;
+            btAccess.TabIndex = 26;
             btAccess.Text = "TRUY CẬP";
             btAccess.UseVisualStyleBackColor = true;
-            // 
-            // tbOutput
-            // 
-            tbOutput.Location = new Point(17, 176);
-            tbOutput.Name = "tbOutput";
-            tbOutput.Size = new Size(912, 378);
-            tbOutput.TabIndex = 16;
-            tbOutput.Text = "";
-            // 
-            // btSeeContent
-            // 
-            btSeeContent.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btSeeContent.Location = new Point(88, 121);
-            btSeeContent.Name = "btSeeContent";
-            btSeeContent.Size = new Size(185, 41);
-            btSeeContent.TabIndex = 21;
-            btSeeContent.Text = "XEM NỘI DUNG";
-            btSeeContent.UseVisualStyleBackColor = true;
-            // 
-            // btSeeSource
-            // 
-            btSeeSource.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btSeeSource.Location = new Point(285, 121);
-            btSeeSource.Name = "btSeeSource";
-            btSeeSource.Size = new Size(185, 41);
-            btSeeSource.TabIndex = 22;
-            btSeeSource.Text = "XEM SOURCE";
-            btSeeSource.UseVisualStyleBackColor = true;
-            // 
-            // btDownload
-            // 
-            btDownload.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btDownload.Location = new Point(483, 121);
-            btDownload.Name = "btDownload";
-            btDownload.Size = new Size(185, 41);
-            btDownload.TabIndex = 23;
-            btDownload.Text = "DOWNLOAD";
-            btDownload.UseVisualStyleBackColor = true;
-            // 
-            // btExit
-            // 
-            btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btExit.Location = new Point(681, 121);
-            btExit.Name = "btExit";
-            btExit.Size = new Size(185, 41);
-            btExit.TabIndex = 24;
-            btExit.Text = "THOÁT";
-            btExit.UseVisualStyleBackColor = true;
+            btAccess.Click += btAccess_Click;
             // 
             // Lab4_Bai4
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(942, 573);
+            ClientSize = new Size(1329, 573);
             Controls.Add(btExit);
             Controls.Add(btDownload);
             Controls.Add(btSeeSource);
-            Controls.Add(btSeeContent);
             Controls.Add(lbHeader);
             Controls.Add(tbInput);
             Controls.Add(btAccess);
-            Controls.Add(tbOutput);
             Name = "Lab4_Bai4";
             Text = "Lab4_Bai4";
             ResumeLayout(false);
@@ -136,13 +118,11 @@
 
         #endregion
 
+        private Button btExit;
+        private Button btDownload;
+        private Button btSeeSource;
         private Label lbHeader;
         private RichTextBox tbInput;
         private Button btAccess;
-        private RichTextBox tbOutput;
-        private Button btSeeContent;
-        private Button btSeeSource;
-        private Button btDownload;
-        private Button btExit;
     }
 }

@@ -44,38 +44,34 @@
             lbHeader.AutoSize = true;
             lbHeader.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbHeader.ForeColor = Color.IndianRed;
-            lbHeader.Location = new Point(112, 28);
-            lbHeader.Margin = new Padding(4, 0, 4, 0);
+            lbHeader.Location = new Point(114, 17);
             lbHeader.Name = "lbHeader";
-            lbHeader.Size = new Size(928, 29);
+            lbHeader.Size = new Size(774, 24);
             lbHeader.TabIndex = 15;
             lbHeader.Text = "BÀI 02 - CHƯƠNG TRÌNH GỬI DỮ LIỆU ĐỊA CHỈ BẰNG PHƯƠNG THỨC POST";
             // 
             // tbInput
             // 
-            tbInput.Location = new Point(80, 128);
-            tbInput.Margin = new Padding(4);
+            tbInput.Location = new Point(98, 102);
             tbInput.Name = "tbInput";
-            tbInput.Size = new Size(646, 50);
+            tbInput.Size = new Size(518, 41);
             tbInput.TabIndex = 14;
             tbInput.Text = "";
             // 
             // tbUrlInput
             // 
-            tbUrlInput.Location = new Point(80, 68);
-            tbUrlInput.Margin = new Padding(4);
+            tbUrlInput.Location = new Point(98, 54);
             tbUrlInput.Name = "tbUrlInput";
-            tbUrlInput.Size = new Size(646, 50);
+            tbUrlInput.Size = new Size(518, 41);
             tbUrlInput.TabIndex = 16;
             tbUrlInput.Text = "http://www.contoso.com/PostAccepter.aspx";
             // 
             // btExit
             // 
             btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btExit.Location = new Point(935, 128);
-            btExit.Margin = new Padding(4);
+            btExit.Location = new Point(780, 102);
             btExit.Name = "btExit";
-            btExit.Size = new Size(231, 51);
+            btExit.Size = new Size(185, 41);
             btExit.TabIndex = 13;
             btExit.Text = "THOÁT";
             btExit.UseVisualStyleBackColor = true;
@@ -83,10 +79,9 @@
             // btPost
             // 
             btPost.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btPost.Location = new Point(741, 128);
-            btPost.Margin = new Padding(4);
+            btPost.Location = new Point(625, 102);
             btPost.Name = "btPost";
-            btPost.Size = new Size(190, 51);
+            btPost.Size = new Size(152, 41);
             btPost.TabIndex = 12;
             btPost.Text = "POST";
             btPost.UseVisualStyleBackColor = true;
@@ -94,36 +89,39 @@
             // 
             // tbOutput
             // 
-            tbOutput.Location = new Point(26, 188);
-            tbOutput.Margin = new Padding(4);
+            tbOutput.Location = new Point(14, 150);
             tbOutput.Name = "tbOutput";
-            tbOutput.Size = new Size(1139, 445);
+            tbOutput.Size = new Size(953, 357);
             tbOutput.TabIndex = 11;
             tbOutput.Text = "";
             // 
             // lblUrl
             // 
             lblUrl.AutoSize = true;
-            lblUrl.Location = new Point(26, 68);
+            lblUrl.Font = new Font("Tahoma", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lblUrl.Location = new Point(14, 62);
+            lblUrl.Margin = new Padding(2, 0, 2, 0);
             lblUrl.Name = "lblUrl";
-            lblUrl.Size = new Size(47, 25);
+            lblUrl.Size = new Size(52, 24);
             lblUrl.TabIndex = 16;
             lblUrl.Text = "URL:";
             // 
             // lblData
             // 
             lblData.AutoSize = true;
-            lblData.Location = new Point(12, 143);
+            lblData.Font = new Font("Tahoma", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lblData.Location = new Point(14, 110);
+            lblData.Margin = new Padding(2, 0, 2, 0);
             lblData.Name = "lblData";
-            lblData.Size = new Size(69, 25);
+            lblData.Size = new Size(81, 24);
             lblData.TabIndex = 17;
             lblData.Text = "(POST):";
             // 
             // Lab4_Bai2
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1191, 656);
+            ClientSize = new Size(984, 525);
             Controls.Add(lblData);
             Controls.Add(lblUrl);
             Controls.Add(lbHeader);
@@ -132,7 +130,6 @@
             Controls.Add(btExit);
             Controls.Add(btPost);
             Controls.Add(tbOutput);
-            Margin = new Padding(4);
             Name = "Lab4_Bai2";
             Text = "Lab4_Bai2";
             ResumeLayout(false);

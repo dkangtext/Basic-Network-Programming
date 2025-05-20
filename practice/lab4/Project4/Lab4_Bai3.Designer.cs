@@ -34,6 +34,8 @@
             btExit = new Button();
             tbOutput = new RichTextBox();
             tbInput2 = new RichTextBox();
+            lblData = new Label();
+            label1 = new Label();
             SuspendLayout();
             // 
             // lbHeader
@@ -41,7 +43,7 @@
             lbHeader.AutoSize = true;
             lbHeader.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbHeader.ForeColor = Color.IndianRed;
-            lbHeader.Location = new Point(57, 27);
+            lbHeader.Location = new Point(121, 27);
             lbHeader.Name = "lbHeader";
             lbHeader.Size = new Size(713, 24);
             lbHeader.TabIndex = 20;
@@ -49,16 +51,16 @@
             // 
             // tbInput
             // 
-            tbInput.Location = new Point(18, 75);
+            tbInput.Location = new Point(107, 73);
             tbInput.Name = "tbInput";
-            tbInput.Size = new Size(605, 41);
+            tbInput.Size = new Size(637, 41);
             tbInput.TabIndex = 19;
             tbInput.Text = "";
             // 
             // btDownload
             // 
             btDownload.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btDownload.Location = new Point(639, 75);
+            btDownload.Location = new Point(760, 73);
             btDownload.Name = "btDownload";
             btDownload.Size = new Size(185, 41);
             btDownload.TabIndex = 18;
@@ -69,7 +71,7 @@
             // btExit
             // 
             btExit.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btExit.Location = new Point(639, 133);
+            btExit.Location = new Point(760, 131);
             btExit.Name = "btExit";
             btExit.Size = new Size(185, 41);
             btExit.TabIndex = 17;
@@ -81,23 +83,47 @@
             // 
             tbOutput.Location = new Point(18, 194);
             tbOutput.Name = "tbOutput";
-            tbOutput.Size = new Size(806, 388);
+            tbOutput.Size = new Size(927, 388);
             tbOutput.TabIndex = 16;
             tbOutput.Text = "";
             // 
             // tbInput2
             // 
-            tbInput2.Location = new Point(18, 133);
+            tbInput2.Location = new Point(107, 131);
             tbInput2.Name = "tbInput2";
-            tbInput2.Size = new Size(605, 41);
+            tbInput2.Size = new Size(637, 41);
             tbInput2.TabIndex = 21;
             tbInput2.Text = "";
+            // 
+            // lblData
+            // 
+            lblData.AutoSize = true;
+            lblData.Font = new Font("Tahoma", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lblData.Location = new Point(18, 81);
+            lblData.Margin = new Padding(2, 0, 2, 0);
+            lblData.Name = "lblData";
+            lblData.Size = new Size(52, 24);
+            lblData.TabIndex = 22;
+            lblData.Text = "URL:";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Tahoma", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.Location = new Point(18, 139);
+            label1.Margin = new Padding(2, 0, 2, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(66, 24);
+            label1.TabIndex = 23;
+            label1.Text = "PATH:";
             // 
             // Lab4_Bai3
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(840, 600);
+            ClientSize = new Size(957, 600);
+            Controls.Add(label1);
+            Controls.Add(lblData);
             Controls.Add(tbInput2);
             Controls.Add(lbHeader);
             Controls.Add(tbInput);
@@ -118,5 +144,7 @@
         private Button btExit;
         private RichTextBox tbOutput;
         private RichTextBox tbInput2;
+        private Label lblData;
+        private Label label1;
     }
 }

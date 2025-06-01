@@ -1,0 +1,7 @@
+root = true
+
+[*.cs]
+# Suppress JSON serialization source generation warnings for UI forms
+dotnet_diagnostic.SYSLIB1038.severity = none
+dotnet_diagnostic.SYSLIB1037.severity = none
+dotnet_diagnostic.SYSLIB1039.severity = none

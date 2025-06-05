@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="MainFormTitle" xml:space="preserve">
+    <value>Collaborative Whiteboard</value>
+  </data>
+  <data name="ConnectButton" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="DisconnectButton" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="SaveButton" xml:space="preserve">
+    <value>Save as Image</value>
+  </data>
+  <data name="ClearButton" xml:space="preserve">
+    <value>Clear Whiteboard</value>
+  </data>
+  <data name="ClientListLabel" xml:space="preserve">
+    <value>Connected Clients:</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>Status: Disconnected</value>
+  </data>
+</root>

@@ -22,8 +22,6 @@ D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windo
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Bai2.resources
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Bai3.resources
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Bai4.resources
-D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Bai4_Dashboard.resources
-D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Bai4_New.resources
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.Lab5_Controls.resources
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.csproj.GenerateResource.cache
 D:\STUDY\Basic-Network-Programming\practice\lab5\Project5\obj\Debug\net9.0-windows\Project5.GeneratedMSBuildEditorConfig.editorconfig

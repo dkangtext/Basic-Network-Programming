@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pK6dfaB5om0=",
+  "success": false,
+  "projectFilePath": "D:\\STUDY\\Basic-Network-Programming\\practice\\lab6\\Project6\\CollaborativeWhiteboard\\src\\CollaborativeWhiteboard.Tests\\CollaborativeWhiteboard.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CollaborativeWhiteboard is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project CollaborativeWhiteboard supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "CollaborativeWhiteboard",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

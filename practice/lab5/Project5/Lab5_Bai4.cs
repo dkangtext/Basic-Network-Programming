@@ -105,13 +105,6 @@ namespace Project5
                     var inbox = client.Inbox;
                     inbox.Open(MailKit.FolderAccess.ReadOnly);
 
-                    // Hiển thị tổng số email
-                    lbTotal.Text = "Tổng số: " + inbox.Count;
-                    lbRecent.Text = "Thư mới: " + inbox.Recent;
-
-                    // Xóa dữ liệu hiển thị cũ
-                    emailGridView.Rows.Clear();
-
                     // Tính ngày 3 ngày trước
                     DateTime threeDaysAgo = DateTime.Now.AddDays(-3);
 
@@ -120,6 +113,17 @@ namespace Project5
 
                     // Thực hiện tìm kiếm
                     var results = inbox.Search(query);
+
+                    // Tìm email mới trong kết quả tìm kiếm
+                    var recentQuery = SearchQuery.And(SearchQuery.DeliveredAfter(threeDaysAgo), SearchQuery.Recent);
+                    var recentResults = inbox.Search(recentQuery);
+
+                    // Hiển thị tổng số email trong 3 ngày qua
+                    lbTotal.Text = "Tổng số: " + results.Count;
+                    lbRecent.Text = "Thư mới: " + recentResults.Count;
+
+                    // Xóa dữ liệu hiển thị cũ
+                    emailGridView.Rows.Clear();
 
                     // Hiển thị số lượng email tìm thấy
                     MessageBox.Show($"Tìm thấy {results.Count} email trong 3 ngày qua", "Thông báo",

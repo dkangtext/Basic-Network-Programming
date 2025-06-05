@@ -1,0 +1,8 @@
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.csproj.AssemblyReference.cache
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.Forms.MainForm.resources
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.csproj.GenerateResource.cache
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.AssemblyInfoInputs.cache
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.AssemblyInfo.cs
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.csproj.CoreCompileInputs.cache
+D:\STUDY\Basic-Network-Programming\practice\lab6\Project6\CollaborativeWhiteboard\src\CollaborativeWhiteboard\obj\Debug\net5.0-windows\CollaborativeWhiteboard.sourcelink.json
